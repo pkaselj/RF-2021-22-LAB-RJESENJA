@@ -1,0 +1,181 @@
+{
+    "Device Info": "USB\\VID_090C&PID_1000\\AA04012900007482",
+    "Product": "NO INFO",
+    "Vendor": "NO INFO",
+    "Revision": "NO INFO",
+    "Connected Time": "2021/01/19 11:16:11.471",
+    "Dev. Description": "USB Mass Storage Device",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_Sharkoon&Prod_Flexi-Drive_EC4&Rev_1100#AA04012900007482&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "Flexi",
+    "Vendor": "Sharkoon",
+    "Revision": "1100",
+    "Connected Time": "2021/01/19 11:16:12.248",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_Kingston&Prod_DataTraveler_3.0&Rev_PMAP#60A44C3FACC9B161499700B1&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "DataTraveler_3",
+    "Vendor": "Kingston",
+    "Revision": "PMAP",
+    "Connected Time": "2021/01/19 11:29:24.146",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\{03758bef-5a3e-11eb-bfd0-bc8556f4c98a}#0000000000007E00",
+    "Product": "NO INFO",
+    "Vendor": "NO INFO",
+    "Revision": "NO INFO",
+    "Connected Time": "2021/01/19 11:57:40.194",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_Kingston&Prod_HyperX_Fury_3.0&Rev_PMAP#60A44C4253CABF90AB469B94&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "HyperX_Fury_3",
+    "Vendor": "Kingston",
+    "Revision": "PMAP",
+    "Connected Time": "2021/01/19 12:16:32.524",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_Verbatim&Prod_STORE_N_GO&Rev_5.00#07841BA105BD&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "STORE_N_GO",
+    "Vendor": "Verbatim",
+    "Revision": "5.00",
+    "Connected Time": "2021/01/19 12:23:32.685",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_Generic&Prod_Flash_Disk&Rev_8.07#F003169A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "Flash_Disk",
+    "Vendor": "Generic",
+    "Revision": "8.07",
+    "Connected Time": "2021/01/28 09:04:55.701",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_JetFlash&Prod_Transcend_16GB&Rev_8.07#MDQUFZI8&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "Transcend_16GB",
+    "Vendor": "JetFlash",
+    "Revision": "8.07",
+    "Connected Time": "2021/01/28 09:28:03.925",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_&Prod_silicon-power&Rev_PMAP#10100173E6AA1300AFB5006A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "silicon",
+    "Vendor": "NO INFO",
+    "Revision": "PMAP",
+    "Connected Time": "2021/01/28 09:52:42.518",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_VendorCo&Prod_ProductCode&Rev_2.00#9207003B58F96236927&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "ProductCode",
+    "Vendor": "VendorCo",
+    "Revision": "2.00",
+    "Connected Time": "2021/01/28 10:33:09.686",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_&Prod_USB_DISK_3.0&Rev_PMAP#070D51B989991A36&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "USB_DISK_3",
+    "Vendor": "NO INFO",
+    "Revision": "PMAP",
+    "Connected Time": "2021/01/28 12:32:11.080",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\{03759fa5-5a3e-11eb-bfd0-bc8556f4c98a}#0000000000100000",
+    "Product": "NO INFO",
+    "Vendor": "NO INFO",
+    "Revision": "NO INFO",
+    "Connected Time": "2021/01/28 12:41:28.703",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "USB\\VID_0C76&PID_0005\\6&3770cc17&0&2",
+    "Product": "NO INFO",
+    "Vendor": "NO INFO",
+    "Revision": "NO INFO",
+    "Connected Time": "2021/03/12 10:18:36.537",
+    "Dev. Description": "USB Mass Storage Device",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_JetFlash&Prod_TS128MJF2A&Rev_1.00#7&de55e70&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "TS128MJF2A",
+    "Vendor": "JetFlash",
+    "Revision": "1.00",
+    "Connected Time": "2021/03/12 10:18:37.074",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1316"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_JetFlash&Prod_TS128MJF2A&Rev_1.00#6&4b6cc2f&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "TS128MJF2A",
+    "Vendor": "JetFlash",
+    "Revision": "1.00",
+    "Connected Time": "2021/03/19 08:39:28.108",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1316"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_SCSI#Disk&Ven_Arsenal&Prod_Virtual_#1&2afd7d61&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "Virtual_",
+    "Vendor": "Arsenal",
+    "Revision": "NO INFO",
+    "Connected Time": "2021/03/19 09:41:46.725",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1316"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_Wilk&Prod_GOODRAM_4GB&Rev_PMAP#070338E8093B3F15&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "GOODRAM_4GB",
+    "Vendor": "Wilk",
+    "Revision": "PMAP",
+    "Connected Time": "2021/03/19 10:19:22.801",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1316"
+}{
+    "Device Info": "USB\\VID_2341&PID_0043\\75437303730351313222",
+    "Product": "NO INFO",
+    "Vendor": "NO INFO",
+    "Revision": "NO INFO",
+    "Connected Time": "2021/03/22 10:50:49.821",
+    "Dev. Description": "USB Serial Device",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_JetFlash&Prod_TS128MJF2A&Rev_1.00#6&2d97e591&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "TS128MJF2A",
+    "Vendor": "JetFlash",
+    "Revision": "1.00",
+    "Connected Time": "2021/03/25 19:54:07.999",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1316"
+}{
+    "Device Info": "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk&Ven_ADATA&Prod_USB_Flash_Drive&Rev_1100#27A1808450880138&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}",
+    "Product": "USB_Flash_Drive",
+    "Vendor": "ADATA",
+    "Revision": "1100",
+    "Connected Time": "2021/04/08 22:31:32.255",
+    "Dev. Description": "WPD FileSystem Volume Driver",
+    "Driver Date": "06/21/2006",
+    "Driver Version": "10.0.18362.1316"
+}

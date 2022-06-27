@@ -1,0 +1,13 @@
+>>>  \[Device Install \(Hardware initiated\) \- (.+)\]
+<<<  \[Exit status: \w+\]
+>>>  \[Device Install \(Hardware initiated\) \- ([0-9\w \\#{}\-\.\?_\/&]+)\]
+Ven_([\w]+)
+Prod_Transcend_([\w]+)
+Rev_([\w\.]+)
+
+
+>>>  Section start ([\w\/ :\.]+)
+
+\s+dvi:\s+DevDesc\s+\- ([\w ]+)
+\s+dvi:\s+DrvDate\s+\- ([\w// ]+)
+\s+dvi:\s+Version\s+\- ([\w\. ]+)

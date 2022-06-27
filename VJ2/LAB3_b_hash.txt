@@ -1,0 +1,37 @@
+================ Dokaz\Secret_file_11.txt ================
+MD5: 187b0341b64a0e16d74ea3b50e22e6c2
+SHA1: 08152ff79a16f2a181174eb5fe8de0197f4d722f
+SHA256: 5f90ecf090772e3366353171a2e8b9c4001934cdc3a5e089ea9ddab7ed4dc352
+================ Dokaz\Secret_file_12.pdf ================
+MD5: 9b56b9ea81b14357b8f7750137dfcb57
+SHA1: 682943bf8259d6fb39183597a8fb788c8d99ce82
+SHA256: 950e9fc0b557471cb0b4ec939a8b11182373da0214cbfcebe612a33fd782ce8e
+================ Dokaz\Secret_file_22.png ================
+MD5: 53364e834ab9f6b643271e5151e0fdf3
+SHA1: 5519a49a974e8476b0c53446719d1d63c93b3cbd
+SHA256: 702343f6388fa3ee0b57c8db81bf28e27f15831ffaf6a85a9344cf6fcf0ed0d2
+================ Dokaz\Secret_file_48.docx ================
+MD5: 322eb9cd9044922ca1754d534d19a81f
+SHA1: a2c7f69afbc4f3bd7ddd1e6139b245cb071b5250
+SHA256: 52ec4969d2597fd50a88685ec3511b8789e085abf8717286c67b702b8c281c95
+================ Dokaz\Secret_file_49.pdf ================
+MD5: 53364e834ab9f6b643271e5151e0fdf3
+SHA1: 5519a49a974e8476b0c53446719d1d63c93b3cbd
+SHA256: 702343f6388fa3ee0b57c8db81bf28e27f15831ffaf6a85a9344cf6fcf0ed0d2
+================ Dokaz\Secret_file_52.jpg ================
+MD5: 9cf3e85f04e8ef126c7edfd486e12cac
+SHA1: e1b67e0cbe01a4028b0998db4fb29f344730da6e
+SHA256: 0ea3ae43ccd3c721a13ec931ea81e6e45ffa7dcd3424d7a8b0b7dc3b6a2d6bfa
+
+
+================ Dokaz\Secret_file_72.docx ================
+MD5: 0bb1cab274b18e5ea1ed10f7de71f8a1
+SHA1: ecdac4ce7b9ca1d35db1e84b5725592bd810d166    // <<<<<<<<<<<<<<<<<<<<<<<<<<<<< TRAZENI HASH
+SHA256: 458ca919e39ee4c1da95e9bf3a08a9b5ec62aa4a3485955171fe52f27d80311a
+
+
+
+================ Dokaz\Secret_file_92.jpg ================
+MD5: 48e7594d8ff00213f7293f2aeb6b46a3
+SHA1: edda2916253b08abec180868ff8e12a97035a784
+SHA256: 75136462704fa9e06020ea70abca555fe4a0334de644a4ceda311bb4fa650011

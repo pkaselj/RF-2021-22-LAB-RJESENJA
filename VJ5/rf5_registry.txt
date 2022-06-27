@@ -1,0 +1,179 @@
+Launching timezone v.20200518
+timezone v.20200518
+(System) Get TimeZoneInformation key contents
+
+TimeZoneInformation key
+ControlSet001\Control\TimeZoneInformation
+LastWrite Time 2021-03-21 20:03:44Z
+  DaylightName   -> @tzres.dll,-211
+  StandardName   -> @tzres.dll,-212
+  Bias           -> 480 (8 hours)
+  ActiveTimeBias -> 420 (7 hours)
+  TimeZoneKeyName-> Pacific Standard Time
+                                                                                                                                                                                                      
+
+Launching winver v.20200525
+winver v.20200525
+(Software) Get Windows version & build info
+
+ProductName               Windows 10 Home     
+ReleaseID                 2009                
+BuildLab                  19041.vb_release.191206-1406
+BuildLabEx                19041.1.amd64fre.vb_release.191206-1406
+CompositionEditionID      Core                
+RegisteredOrganization                        
+RegisteredOwner           Kamryn              
+InstallDate               2021-03-10 00:04:29Z
+InstallTime               2021-03-10 00:04:29Z
+                                                                                                                                                                                                      
+
+Launching compname v.20090727
+compname v.20090727
+(System) Gets ComputerName and Hostname values from System hive
+
+ComputerName    = DESKTOP-E4SUNT2
+TCP/IP Hostname = DESKTOP-E4SUNT2
+                                                                                                                                                                                                      
+
+Launching samparse v.20200825
+Username        : Administrator [500]
+Account Created : 2021-03-10 03:04:01Z
+Last Login Date : 2020-09-27 14:54:30Z
+Pwd Reset Date  : Never
+Pwd Fail Date   : Never
+Username        : Guest [501]
+Account Created : 2021-03-10 03:04:01Z
+Last Login Date : Never
+Pwd Reset Date  : Never
+Pwd Fail Date   : Never
+Username        : DefaultAccount [503]
+Account Created : 2021-03-10 03:04:01Z
+Last Login Date : Never
+Pwd Reset Date  : Never
+Pwd Fail Date   : Never
+Username        : WDAGUtilityAccount [504]
+Account Created : 2021-03-10 03:04:01Z
+Last Login Date : Never
+Pwd Reset Date  : 2020-09-27 14:50:45Z
+Pwd Fail Date   : Never
+Username        : Kamryn [1002]
+Account Created : 2021-03-10 00:13:56Z
+Last Login Date : 2021-03-21 20:04:35Z
+Pwd Reset Date  : 2021-03-10 00:13:56Z
+Pwd Fail Date   : 2021-03-10 00:21:18Z
+                                                                                                                                                                                                      
+
+Launching lastloggedon v.20200517
+lastloggedon v.20200517
+(Software) Gets LastLoggedOn* values from LogonUI key
+
+LastLoggedOn
+Microsoft\Windows\CurrentVersion\Authentication\LogonUI
+LastWrite: 2021-03-21 20:04:35Z
+
+LastLoggedOnUser    = .\Kamryn
+LastLoggedOnSAMUser = .\Kamryn
+LastLoggedOnUserSID = S-1-5-21-1987397543-1106735666-2059573275-1002
+                                                                                                                                                                                                      
+
+Launching shutdown v.20200518
+shutdown v.20200518
+(System) Gets ShutdownTime value from System hive
+
+ControlSet001\Control\Windows key, ShutdownTime value
+LastWrite time: 2021-03-10 00:49:11Z
+ShutdownTime  : 2021-03-10 00:49:11Z
+                                                                                                                                                                                                      
+
+
+                                                                                                                                                        1 ⨯
+Launching recentdocs v.20200427
+recentdocs v.20200427
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time: 2021-03-27 14:25:45Z
+  20 = Torrent-Sources
+  19 = Contraband.mp3
+  15 = Captures
+  18 = ID-20210327.raw
+  13 = Torrents
+  17 = Contraband.mp3.torrent
+  16 = ms-gamingoverlay:///
+  0 = kglcheck/
+  14 = ID-20210321.raw
+  12 = Sample-1.mp3.torrent
+  4 = Reference
+  8 = List-2.txt
+  7 = List-1.txt
+  11 = Downloads
+  10 = Sample-1.mp3
+  9 = List-3.txt
+  6 = This PC
+  5 = Documents
+  3 = Pictures
+  2 = wallpaperflare.com_wallpaper.jpg
+  1 = The Internet
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpg
+LastWrite Time 2021-03-21 20:20:49Z
+MRUListEx = 0
+  0 = wallpaperflare.com_wallpaper.jpg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.mp3
+LastWrite Time 2021-03-27 14:25:45Z
+MRUListEx = 1,0
+  1 = Contraband.mp3
+  0 = Sample-1.mp3
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.raw
+LastWrite Time 2021-03-27 14:21:21Z
+MRUListEx = 1,0
+  1 = ID-20210327.raw
+  0 = ID-20210321.raw
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.torrent
+LastWrite Time 2021-03-27 14:10:00Z
+MRUListEx = 1,0
+  1 = Contraband.mp3.torrent
+  0 = Sample-1.mp3.torrent
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt
+LastWrite Time 2021-03-21 20:41:44Z
+MRUListEx = 1,0,2
+  1 = List-2.txt
+  0 = List-1.txt
+  2 = List-3.txt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder
+LastWrite Time 2021-03-27 14:25:45Z
+MRUListEx = 7,6,5,3,4,2,1,0
+  7 = Torrent-Sources
+  6 = Captures
+  5 = Torrents
+  3 = Reference
+  4 = Downloads
+  2 = This PC
+  1 = Pictures
+  0 = The Internet
+
+
+MP3:
+r/r 79927-128-4:	Users/Kamryn/AppData/Roaming/uTorrent/Contraband.mp3.torrent	2021-03-27 14:10:14 (PST)	2021-03-27 14:10:14 (PST)
+r/r 79927-128-5:	Users/Kamryn/AppData/Roaming/uTorrent/Contraband.mp3.torrent:Zone.Identifier	2021-03-27 14:10:14 (PST)	2021-03-27 14:10:14 (PST)
+r/r 206281-128-1:	Users/Kamryn/AppData/Roaming/uTorrent/Sample-1.mp3.torrent	2021-03-21 20:42:39 (PST)	2021-03-21 20:42:39 (PST)
+r/r 55634-128-4:	Users/Kamryn/Downloads/Torrents/Contraband.mp3.torrent	2021-03-27 14:10:00 (PST)	2021-03-27 14:10:11 (PST)
+r/r 55634-128-5:	Users/Kamryn/Downloads/Torrents/Contraband.mp3.torrent:Zone.Identifier	2021-03-27 14:10:00 (PST)	2021-03-27 14:10:11 (PST)
+r/r 206280-128-4:	Users/Kamryn/Downloads/Torrents/Sample-1.mp3.torrent	2021-03-21 20:42:39 (PST)	2021-03-21 20:52:23 (PST)
+
+TORRENT:
+r/r 205974-128-3:	Users/Kamryn/AppData/Roaming/uTorrent/helper/helper.exe	2021-03-27 14:02:54 (PST)	2021-03-21 20:40:17 (PST)
+r/r 205783-128-4:	Users/Kamryn/AppData/Roaming/uTorrent/updates/3.5.5_45852/utorrentie.exe	2021-03-27 14:02:53 (PST)	2021-03-21 20:39:53 (PST)
+r/r 158784-128-1:	Users/Kamryn/AppData/Roaming/uTorrent/updates/3.5.5_45852.exe	2021-03-21 16:59:06 (PST)	2021-03-21 20:39:08 (PST)
+r/r 205967-128-4:	Users/Kamryn/AppData/Roaming/uTorrent/updates/3.5.5_45966.exe	2021-03-21 20:40:19 (PST)	2021-03-21 20:40:17 (PST)
+r/r 205772-128-3:	Users/Kamryn/AppData/Roaming/uTorrent/uTorrent.exe	2021-03-27 14:04:01 (PST)	2021-03-21 20:39:08 (PST)
+r/r 97182-128-4:	Users/Kamryn/Desktop/uTorrent.exe	2021-03-27 14:04:10 (PST)	2021-03-21 20:37:28 (PST)
+r/r 97182-128-7:	Users/Kamryn/Desktop/uTorrent.exe:SmartScreen	2021-03-27 14:04:10 (PST)	2021-03-21 20:37:28 (PST)
+
